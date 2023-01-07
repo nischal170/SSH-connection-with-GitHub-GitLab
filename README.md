@@ -1,5 +1,5 @@
 # SSH-connection-with-GitHub-GitLab
-Using GitHub or any git hosting services  with SSH (Secure Shell)
+Connect Using GitHub or any git hosting services  with SSH (Secure Shell)
 Steps for ssh key in git .
 
  1. Generate ssh key using the below command in command prompt(if you have windows PC)
