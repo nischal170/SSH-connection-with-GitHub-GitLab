@@ -11,14 +11,14 @@ Steps for ssh key in git .
 				 *"nischal.neupane@gitlab.com" for my gitlab* AND
 				*"nischalneupane17@gmail.com" for my github account*
 	2. give file a name, like "forGitHub".
-	3. two files will be generated inside c:\users\ <your Name>\
+	3. two files will be generated inside c:\users\\<your Name>\
 				like 
 				
 				1. forGitHub==>This is private key,keep this safe.
 			
 				2. forGitHub.pub==>This is the file we require.(It contains the key which you have to paste in Github/Gitlab)
 
-	4. make a folder named".ssh" inside "c:\users\ <your Name>\
+	4. make a folder named".ssh" inside "c:\users\\<your Name>\
 
 2. Add the key to ssh-agent.
 	- start the ssh-agent in the background
