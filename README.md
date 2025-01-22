@@ -8,7 +8,7 @@ Steps for ssh key in git .
 			rsa is encryption algorithm,you can use other encryption like "ed25519" also.
 		Your email refers to your sign in email for that git service.
 			For Example
-				 *"nischal.neupane@gitlab.com" for my gitlab* AND
+				 *"nischal.neupane@gitlab.com" for my gitlab* or
 				*"nischalneupane17@gmail.com" for my github account*
 	- B. give file a name, like "forGitHub".
 	- C. two files will be generated inside the directory c:\users\<your user account Name>\
